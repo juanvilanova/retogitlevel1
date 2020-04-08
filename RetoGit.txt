@@ -1,1 +1,3 @@
 Reto con GIT Level 1 - Juan Vilanova
+
+Informacion añadida para el stage
